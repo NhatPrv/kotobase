@@ -4,6 +4,14 @@ KotoBase là ứng dụng web hiện đại hỗ trợ người học tiếng Nh
 
 ---
 
+## Tài liệu dự án
+
+- [Trung tâm tài liệu](./docs/README.md)
+- [Hướng dẫn cài đặt](./docs/SETUP.md)
+- [Kiến trúc hệ thống](./docs/ARCHITECTURE.md)
+
+---
+
 ## 1. Giới thiệu tổng quan
 
 KotoBase được thiết kế nhằm giải quyết bài toán phân mảnh dữ liệu khi học tiếng Nhật:
